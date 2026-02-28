@@ -1,0 +1,19 @@
+h1{
+    color: blue !important;
+
+}
+
+a:link{
+
+}
+a:active{
+
+}
+a:hover{
+    background-color: cadetblue;
+    
+}
+a:visited{
+    color:bisque;  
+}
+    
